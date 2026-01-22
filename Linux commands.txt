@@ -1,0 +1,14 @@
+Linux commands:
+
+1.Create a directory
+mkdir mydir
+2.Navigate into it
+cd mydir
+3.Create a file
+touch myfile.txt
+4.Assign read and write permissions to the owner, and read-only permission to group and others (Symbolic & Numeric permissions)
+chmod u=rw,g=r,o=r myfile.txt
+5.Display the file content
+cat myfile.txt
+6.Verify the file permissions
+ls -l myfile.txt
