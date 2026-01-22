@@ -1,0 +1,13 @@
+Phases of SDLC (Software Development Life Cycle)
+1.Requirement Analysis
+In this phase, the requirements of the customer are collected and analyzed. The development team understands what the user actually needs and documents it clearly. This helps avoid confusion in later stages.
+2.System Design
+Based on the requirements, the system architecture and design are prepared. This phase defines how the software will work, including hardware, software, database design, and overall system structure.
+3. Implementation (Coding)
+In this phase, developers write the actual code according to the design documents. Each module is developed separately and follows coding standards to ensure quality and maintainability.
+4.Testing
+After coding, the software is tested to find and fix errors. Different types of testing are performed to make sure the application works correctly and meets the specified requirements.
+5.Deployment
+Once the software is tested and approved, it is deployed to the production environment. This is the phase where the software is delivered to the users for real-world use.
+6.Maintenance
+After deployment, the software needs regular updates, bug fixes, and improvements. Maintenance ensures the software continues to work efficiently as user needs change.
